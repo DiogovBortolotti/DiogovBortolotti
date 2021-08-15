@@ -1,8 +1,15 @@
+<p align="center">
+  <a href="https://ant.design">
+     <img align="center" alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
+  </a>
+</p>
 
-### Ola! Eu sou o Diogo Vieira
+<p></p>
 
-- 👋 Estudando Python
+<h1 align="center" >Diogo Vieira</h1>
 
+
+<p></p>
 <div>
   <a href="https://github.com/DiogovBortolotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Icon_Home" src="">
+  <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
