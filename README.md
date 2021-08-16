@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ant.design">
-     <img align="center" alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
+     <img align="center" width="300" height="200"  alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
   </a>
 </p>
 
