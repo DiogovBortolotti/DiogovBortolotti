@@ -14,7 +14,7 @@
   
   
  <a href="https://github.com/DiogovBortolotti">
-  <img align='center'  width="440" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align='center'  width="410" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align='right' width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
