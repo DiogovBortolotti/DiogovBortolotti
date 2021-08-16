@@ -1,25 +1,27 @@
 <p align="center">
   <a href="https://ant.design">
-     <img align="center" width="300" height="200"  alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
+     <img align="center" width="280" height="180"  alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
   </a>
 </p>
 
-<p></p>
+ 
 
 <h1 align="center" >Diogo Vieira</h1>
 
 
-<p></p>
+
 <div>
-  <p></p>
-  <p></p>
-  <a href="https://github.com/DiogovBortolotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  
+ <a href="https://github.com/DiogovBortolotti">
+  <img align='center'  width="440" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align='right' width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <p></p>
+  <p>
+  Skills:
+    </p>
   <img align="center" alt="Icon_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -35,7 +37,6 @@
 </div>
   
   
-   ![Snake animation](https://github.com/DiogovBortolotti/DiogovBortolotti/blob/output/github-contribution-grid-snake.svg)
  
 
   
