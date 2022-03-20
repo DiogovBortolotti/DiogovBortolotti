@@ -1,12 +1,6 @@
-<p align="center">
-  <a href="https://ant.design">
-     <img align="center" width="280" height="180"  alt="Icon_Home" src="https://c.tenor.com/q_qq9hr3WkcAAAAC/gojo-satoru.gif">
-  </a>
-</p>
+<h2 align="center"> 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒇𝒓𝒊𝒆𝒏𝒅 <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
- 
 
-<h1 align="center" >Diogo Vieira</h1>
 
 
 
@@ -18,26 +12,51 @@
   <img align='right' width="420"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <p>
-  Skills:
-    </p>
-  <img align="center" alt="Icon_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+
   
-  ##
+### Features
+
+- [x] Selenium
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
  
 <div> 
   <a href="https://www.instagram.com/diogovbortolotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/diogovbortolotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
   
+  ### Ferramentas e Tecnologias
   
+  ### Estou aprendendo
  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px"/>
+<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="60px"/>
+<img src="https://img.icons8.com/color/344/tomcat.png" width="60px"/>
+<img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" width="60px"/>
+  
+  
+![Snake animation](https://github.com/DiogovBortolotti/blob/output/github-contribution-grid-snake.svg)
+  
+  ##  ⚡ Tecnologias
+Fale comigo sobre
+- Desenvolvimento front-end usando **HTML, Javascript,CSS,Bootstrap** (Ainda aprendendo)
+- Desenvolvimento backend usando **Django**
+- Criação para automação em **Java e Python**
+- Criação para **Sistemas de Gerenciamento de Banco de Dados Relacional**
+- Resolvendo questões de estrutura de dados e algoritmos em **Python**
+
 
   
   
+ <h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
