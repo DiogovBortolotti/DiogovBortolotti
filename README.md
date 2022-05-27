@@ -1,10 +1,14 @@
 
-<h2 align="center"> 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒇𝒓𝒊𝒆𝒏𝒅 <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hello World, <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+
 
 ### Ferramentas
 <div> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="30px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/>
 </div>
 	
 ### Linguagens e Tecnologias
@@ -20,7 +24,7 @@
 	
 ### Estou aprendendo
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="30px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px"/>
@@ -29,15 +33,15 @@
 </div>
 
 
-##  ⚡ Tecnologias
+##  Conhecimento
 Fale comigo sobre:
-- Desenvolvimento front-end usando **HTML, Javascript, CSS **(Ainda aprendendo)**(
+- Desenvolvimento front-end usando **HTML, Javascript, CSS **(Ainda aprendendo)**
 - Desenvolvimento backend usando **Django**
 - Criação para automação em **Java e Python**
 - Criação para **Sistemas de Gerenciamento de Banco de Dados Relacional**
-- Resolvendo questões de estrutura de dados e algoritmos em **Python**
+- Resolvendo questões de estrutura de dados e algoritmos em **Python e Java**
 
-
+Redes Sociais:
  <div> 
 	<a href="https://www.instagram.com/diogovbortolotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -45,9 +49,10 @@ Fale comigo sobre:
 </div>
 
 
-### Skills
+## Skills
 - [x] Analise de dados
 - [ ] Machine Learning
+- [ ] Estrutura da Informação
 
 
 
