@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hello World, <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hello World, <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="40"/></h2>
 
 
 
@@ -59,8 +59,8 @@ Redes Sociais:
 <details>
 	<summary align='center' >Info GitHub</summary>
 	<div>
-		<img align='center'  width="480px" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-		<img align='right' width="480px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
+		<img align='center'  height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=DiogovBortolotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+		<img align='right' height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogovBortolotti&layout=compact&langs_count=7&theme=tokyonight"/>
 	</div>
 </details>
 
