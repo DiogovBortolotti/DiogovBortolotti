@@ -16,6 +16,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30px"/>
+	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-icon.svg" width="30px"/>
 	<img src="https://img.icons8.com/color/344/tomcat.png" width="30px"/>
 	<img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" width="30px"/>
 	<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="30px"/>
@@ -44,7 +45,6 @@ Fale comigo sobre:
 Redes Sociais:
  <div> 
 	<a href="https://www.instagram.com/diogovbortolotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 	<a href="https://br.linkedin.com/in/diogobortolotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
