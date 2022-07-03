@@ -16,7 +16,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30px"/>
-	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-icon.svg" width="30px"/>
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png" width="30px"/>
 	<img src="https://img.icons8.com/color/344/tomcat.png" width="30px"/>
 	<img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" width="30px"/>
 	<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="30px"/>
