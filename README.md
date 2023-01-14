@@ -51,6 +51,7 @@ Redes Sociais:
 
 ## Skills
 - [x] Analise de dados
+- [?] TDD - Em Apredizagem
 - [ ] Machine Learning
 - [ ] Estrutura da Informação
 
